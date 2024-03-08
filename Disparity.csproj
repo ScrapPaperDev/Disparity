@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!--TargetFramework>netstandard2.0</TargetFramework-->
+    <!--TargetFramework>net8.0</TargetFramework-->
+    <TargetFramework>net35</TargetFramework>
+    <AssemblyName>Disparity</AssemblyName>
+    <RootNamespace>Disparity</RootNamespace>
+    <OutputType>Library</OutputType>
+    <DefineConstants>NET_35_SUBSET</DefineConstants>
+  </PropertyGroup>
+
+</Project>
